@@ -1,0 +1,6 @@
+# Site config file thing
+
+theme: jekyll-theme-slate
+name: TESTNAME
+title: TESTTITLE
+description: TESTDESC
