@@ -1,2 +1,2 @@
 ## **/assets/img/ Directory Info**
-This directory will store all images.
+This directory will store all site image assets.
