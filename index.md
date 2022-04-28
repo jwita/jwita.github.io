@@ -13,5 +13,5 @@ abcefghijklmnopqrstuvwxyz0123456789
 ### **TEST3**
 <details>
   <p>ye</p>
-  <p><sub><a href="/pages/test2page">psst</a></sub></p>
+  <p><sub><a href="/pages/test2page.md">psst</a></sub></p>
 </details>
