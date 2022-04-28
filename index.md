@@ -1,6 +1,8 @@
 ---
+layout: page
 title: home
 filename: index.md
+permalink: https://jwita.github.io/home
 ---
 # **TEST**  
 I do stuff
