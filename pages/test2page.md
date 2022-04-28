@@ -1,5 +1,4 @@
 ---
-layout: page  
 title: Test 2nd Page  
 permalink: /test2page
 ---
