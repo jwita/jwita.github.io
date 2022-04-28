@@ -8,6 +8,6 @@ I do stuff
 lorem ipsum but cooler  
 abcefghijklmnopqrstuvwxyz0123456789
 
-<img src="no" alt="testimg" width=100 height=100/>
+<img src="/assets/img/corndog01.jpg" alt="testimg" width=100 height=100/>
 
 ### **TEST3**
